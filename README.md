@@ -13,3 +13,4 @@ This is the web application that keeps track of corona cases across the world
    `git clone https://github.com/Ajjugupta2000/Covid-Tracker.git`
 - Go to the directory
 - Run the index.html file
+# Happy Coding !🙂🙂
